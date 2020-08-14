@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey People 👋
 
 - 🔭 I’m currently working on ... Adversarial Attacks in Natural Language Processing.
 - 👯 I’m looking to collaborate on ... Any interesting work in ML, Deep Learning, NLP.
