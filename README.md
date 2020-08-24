@@ -11,5 +11,4 @@
 - 🤔 I’m looking for help with ...
 - 🌱 I’m currently learning ... 
 -->
-### Books I've read so far:
-[a link](https://https://github.com/ashwani-bhat/books-read/blob/master/README.md)
+### Books I've read so far:[link](https://https://github.com/ashwani-bhat/books-read/blob/master/README.md)
