@@ -16,5 +16,5 @@
 
 <!-- ### Ashwani Bhat [@ashwani-bhat](https://github.com/ashwani-bhat/) -->
 
-![](https://komarev.com/ghpvc/?username=ashwani-bhat&color=blueviolet)
-</p>
+![](https://komarev.com/ghpvc/?username=ashwani-bhat&color=blueviolet)<br>
+![](https://github-readme-stats.vercel.app/api?username=ashwani-bhat)
