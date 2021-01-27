@@ -15,6 +15,5 @@
 ### Books I've read so far:  [link](https://github.com/ashwani-bhat/books-read/blob/master/README.md)
 
 <!-- ### Ashwani Bhat [@ashwani-bhat](https://github.com/ashwani-bhat/) -->
-
-![](https://komarev.com/ghpvc/?username=ashwani-bhat&color=blueviolet)<br>
-![](https://github-readme-stats.vercel.app/api?username=ashwani-bhat)
+![](https://github-readme-stats.vercel.app/api?username=ashwani-bhat)</br>
+![](https://komarev.com/ghpvc/?username=ashwani-bhat&color=blueviolet)
