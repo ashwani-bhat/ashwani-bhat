@@ -5,7 +5,7 @@
 - 💬 Ask me about ... NLP, Machine Learning, Deep learning, Life, Psychology.
 - 📫 How to reach me: ... Drop a mail.
 -->
-- ✨ Hobbies => Studying about neuroscience and psychology.
+- ✨ Hobbies => Neuroscience and psychology.
 
 <!--
 - 😄 Pronouns: ... 
